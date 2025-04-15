@@ -1,1 +1,1 @@
-# FPGA_prototyping_by_Verilog_examples
+# FPGA prototyping by Verilog examples by Pong P. Chu
